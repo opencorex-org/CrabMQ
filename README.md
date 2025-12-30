@@ -64,7 +64,7 @@ cargo --version
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/OpenCorex/CrabMQ.git
+git clone https://github.com/opencorex-org/CrabMQ.git
 cd CrabMQ
 ```
 
@@ -180,4 +180,4 @@ Please open an issue or submit a pull request.
 
 ## 📜 License
 
-CrabMQ is licensed under the **Apache License**
+CrabMQ is licensed under the **Apache License 2.0**
