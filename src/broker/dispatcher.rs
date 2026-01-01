@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 use crate::protocol::types::Publish;
 
 #[derive(Default, Debug)]

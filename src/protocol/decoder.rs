@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 use bytes::{Buf, Bytes};
 use crate::protocol::types::{Packet, Publish};
 

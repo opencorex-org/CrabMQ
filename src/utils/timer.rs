@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 use tokio::time::{self, Duration, Instant};
 
 pub struct KeepAliveTimer {
